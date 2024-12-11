@@ -26,5 +26,4 @@ pipeline {
         }
        
     }
->>>>>>> 0de0e65d5de6809f41b3588d0c4042eb24a7da6f
 }
